@@ -1,4 +1,3 @@
-Gerador de Frases em Java
 
 Projeto simples desenvolvido em Java que gera frases aleatórias utilizando arrays e a classe Random.
  Tecnologias utilizadas
