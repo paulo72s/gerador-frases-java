@@ -1,2 +1,17 @@
-# gerador-frases-java
-codigo para nomes aleatorios, poderá ser usado em gerador de nomes, numeros etc...
+# Gerador de Frases em Java
+
+Projeto simples desenvolvido em Java que gera frases aleatórias utilizando arrays e a classe Random.
+
+ Tecnologias utilizadas
+- Java
+
+Conceitos aplicados
+- Arrays
+- Geração de números aleatórios (Random)
+- Estrutura básica de um programa Java
+
+ Como executar
+
+bash
+javac PhraseOMatic.java
+java PhraseOMatic
